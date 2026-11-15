@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-    <a href="https://txt42.ai/">Home page</a> ∙ <a href="https://txt42.ai/doc/install-chat-gpt-tinymce-plugin/">Install</a> ∙ <a href="https://codepen.io/txt42/pen/oNQLYgN">Try Online</a>
+    <a href="https://txt42.ai/">Home page</a> ∙ <a href="https://txt42.ai/doc/install-chat-gpt-tinymce-plugin/">Install</a> ∙ <a href="https://codeplay.democdn.com/txt42/oNQLYgN">Try Online</a>
 </p>
 
 [txt42.webm](https://github.com/edsdk/txt42-tinymce/assets/39118405/bc27c35b-9bc4-412b-8cfb-b44848d7558c)
