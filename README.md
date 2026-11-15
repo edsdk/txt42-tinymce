@@ -41,7 +41,7 @@ When you pass parameters to TinyMCE manually as function argument, do the same b
 tinymce.init(
   {
      plugins: "chat-gpt",
-     apiKey: "TXAIAUTO", // Default key. Get own: https://txt42.ai/dashboard
+     apiKey: "TXAI24RR1234123412341234", // Default key. Get own: https://txt42.ai/dashboard
   }
 );
 ```
